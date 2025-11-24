@@ -1,7 +1,4 @@
 numpy
-scipy
-statsmodels
-einops
 torch==2.3.1
 torchvision==0.18.1
 matplotlib
@@ -10,3 +7,5 @@ scipy
 typeguard==2.13.3
 torchtyping==0.1.4
 seaborn
+statsmodels
+einops
